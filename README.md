@@ -6,4 +6,5 @@ Designed and implemented a "Smart Calculator" in Assembly language, utilizing Re
 * Implementing mathematical operations such as addition, subtraction, multiplication, and division using registers in Assembly language
 * Efficiently managing stack operations for RPN calculations with register-based optimizations
 * Handling user inputs and validating mathematical expressions while seamlessly integrating the conversion module
+
 This project was completed as part of the "Computer Architecture" course, demonstrating proficiency in register-based programming, stack management, and the integration of conversion algorithms in low-level programming environments.
