@@ -1,5 +1,4 @@
 # Smart calculator in Assembly
-Smart calculator in Assembly, implemented using Reverse Polish Notation (RPN)
 
 Designed and implemented a "Smart Calculator" in Assembly language, utilizing Reverse Polish Notation (RPN) for computations. The project focused on understanding and utilizing registers while incorporating a conversion module that converts normal mathematical notation to RPN within the program. Key features of this project include:
 * Developing a user-friendly console interface that accepts normal mathematical notation and automatically converts it to RPN for calculations
